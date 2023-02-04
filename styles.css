@@ -1,0 +1,44 @@
+
+.father{
+    background-color: #BFACE2;
+    flex-direction: column;
+}
+
+.son{
+    margin-left: 30%;
+}
+
+.h1{
+    color: aliceblue;
+    padding: 20px;
+    width: 200%;
+    margin-left: 40%;
+}
+
+p{
+    color: aliceblue;
+    width: 25%;
+    margin: 15px;
+    margin-left: 35%;
+}
+
+button{
+    background: aliceblue;
+    color: #BFACE2; 
+    border-radius: 37%;
+    border-color: aliceblue;
+    padding: 3px;
+    width: 17%;
+    margin: 15px;
+
+}
+
+button:hover {
+    background: #BFACE2;
+    color: whitesmoke;
+    cursor: pointer;
+    }
+
+.son2{
+    margin-left: 40%; 
+}
